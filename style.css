@@ -1,0 +1,29 @@
+body {
+  background-color: bisque;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  background-color: brown;
+  color: white;
+  padding: 20px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 40px;
+}
+
+.tipo {
+  background-color: papayawhip;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
